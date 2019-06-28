@@ -12,59 +12,59 @@
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/ronaldo.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/ronaldo.png",
-          "name": "boss"
+          "name": "Ronaldo Video Call"
         },{
-          "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/cvid_conjuring.mp4",
+          "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/vid_conjuring.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/vid_conjuring.png",
-          "name": "children boy scary"
+          "name": "conjuring Call"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/vid_santa.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/vid_santa.png",
-          "name": "chilren girl scary"
+          "name": "Santa Video Call"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video1.mp4",
-          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/cvideo1.png",
-          "name": "chilren girl3 scary"
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video1.png",
+          "name": "Girl Video Call"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video2.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video2.png",
-          "name": "crazy_doctor"
+          "name": "Girl Video 2 Call"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video3.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video3.png",
-          "name": "boy friend"
+          "name": "Girl Video Call 3"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video4.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video4.png",
-          "name": "girl friend"
+          "name": "Girl Video Call 4"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video5.png",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video5.png",
-          "name": "girl chilren1 scary"
+          "name": "Girl Video Call 5"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video6.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video6.png",
-          "name": "grandma"
+          "name": "Girl Video Call 6"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video7.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video7.png",
-          "name": "grandpa"
+          "name": "Girl Video Call 7"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video8.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video8.png",
-          "name": "happy birth day"
+          "name": "Girl Video Call 8"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video_english.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video_english.png",
-          "name": "ladybug"
+          "name": "Scary English Video"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video_spanish.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video_spanish.png",
-          "name": "rayan"
+          "name": "Scary Spanish Video"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/vv.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/vv.png",
-          "name": "scary 1 call"
+          "name": "scary Video"
         }
       ]
 }
