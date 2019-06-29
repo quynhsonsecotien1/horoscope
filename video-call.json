@@ -65,6 +65,26 @@
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/vv.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/vv.png",
           "name": "scary Video"
+        },{
+          "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools1.mp4",
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools1.png",
+          "name": "Girl Video Call 7"
+        },{
+          "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools1.mp4",
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools1.png",
+          "name": "Girl Video Call 8"
+        },{
+          "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools1.mp4",
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools1.png",
+          "name": "Scary English Video"
+        },{
+          "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools1.mp4",
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools1.png",
+          "name": "Scary Spanish Video"
+        },{
+          "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools1.mp4",
+          "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools1.png",
+          "name": "scary Video"
         }
       ]
 }
