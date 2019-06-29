@@ -86,5 +86,35 @@
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools5.png",
           "name": "girl-cools5"
         }
+        
+        ,{
+            "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/g_dragon_v.mp4",
+            "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/g_dragon_v.png",
+            "name": "Scary Spanish Video"
+        },{
+            "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/jimin_fake_v.mp4",
+            "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/jimin_fake_v.png",
+            "name": "scary Video"
+        },{
+            "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/jung_kook_v.mp4",
+            "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/jung_kook_v.png",
+            "name": "girl-cools1"
+        },{
+            "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/kim_hyun_joong_v.mp4",
+            "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/kim_hyun_joong_v.png",
+            "name": "girl-cools2"
+        },{
+            "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/lee_min_ho_v.mp4",
+            "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/lee_min_ho_v.png",
+            "name": "girl-cools3"
+        },{
+            "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/sehun.mp4",
+            "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/sehun.png",
+            "name": "girl-cools4"
+        },{
+            "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/song_joong_ki_v.mp4",
+            "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/song_joong_ki_v.png",
+            "name": "girl-cools5"
+        }
       ]
 }
