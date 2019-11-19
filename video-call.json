@@ -3,117 +3,144 @@
         {
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/clown_video.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/clown_video.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/clown scary_land.jpg",
           "name": "clown scary"
         },
        {
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/hero_video.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/hero_video.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/Hero video_land.jpg",
           "name": "Hero video"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/ronaldo.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/ronaldo.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/Ronaldo Video Call_land.jpg",
           "name": "Ronaldo Video Call"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/vid_conjuring.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/vid_conjuring.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/conjuring Call_land.jpg",
           "name": "conjuring Call"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/vid_santa.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/vid_santa.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/Santa Video Call_land.jpeg",
           "name": "Santa Video Call"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video1.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video1.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/Girl Video 2 Call_land.jpg",
           "name": "Girl Video Call"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video2.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video2.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/Girl Video Call 3_land.jpg",
           "name": "Girl Video 2 Call"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video3.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video3.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/Girl Video Call 4_land.jpg",
           "name": "Girl Video Call 3"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video4.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video4.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/Girl Video Call 5_land.jpg",
           "name": "Girl Video Call 4"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video5.png",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video5.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/Girl Video Call 6_land.jpg",
           "name": "Girl Video Call 5"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video6.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video6.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/Girl Video Call 7_land.jpeg",
           "name": "Girl Video Call 6"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video7.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video7.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/Girl Video Call 8_land.jpg",
           "name": "Girl Video Call 7"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video8.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video8.png",
+          "landscape": "https://motionarray.imgix.net/preview-111291-QkLcvVyLO8-high_0013.jpg",
           "name": "Girl Video Call 8"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video_english.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video_english.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/Scary English Video_land.jpg",
           "name": "Scary English Video"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video_spanish.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/video_spanish.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/Santa Video Call_land.jpeg",
           "name": "Scary Spanish Video"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/vv.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/vv.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/scary Video_land.jpg",
           "name": "scary Video"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools1.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools1.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/girl-cools1_land.jpg",
           "name": "girl-cools1"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools2.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools2.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/girl-cools1_land.png",
           "name": "girl-cools2"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools3.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools3.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/girl-cools2_land.jpg",
           "name": "girl-cools3"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools4.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools4.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/girl-cools3_land.jpg",
           "name": "girl-cools4"
         },{
           "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools5.mp4",
           "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/girl-cools5.png",
+          "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/girl-cools4_land.jpg",
           "name": "girl-cools5"
         }
-        
         ,{
             "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/g_dragon_v.mp4",
             "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/g_dragon_v.png",
+            "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/girl-cools5_land.jpg",
             "name": "Scary Spanish Video"
         },{
             "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/jimin_fake_v.mp4",
             "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/jimin_fake_v.png",
+            "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/Hero video_land.jpg",
             "name": "scary Video"
         },{
             "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/jung_kook_v.mp4",
             "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/jung_kook_v.png",
+            "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/Santa Video Call_land.jpeg",
             "name": "girl-cools1"
         },{
             "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/kim_hyun_joong_v.mp4",
             "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/kim_hyun_joong_v.png",
+            "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/kim_hyun_joong_land.jpg",
             "name": "girl-cools2"
         },{
             "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/lee_min_ho_v.mp4",
             "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/lee_min_ho_v.png",
+            "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/lee_min_ho_land.png",
             "name": "girl-cools3"
         },{
             "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/sehun.mp4",
             "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/sehun.png",
+            "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/sehun_land.jpg",
             "name": "girl-cools4"
         },{
             "audio": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/song_joong_ki_v.mp4",
             "cover": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/song_joong_ki_v.png",
+            "landscape": "https://raw.githubusercontent.com/quynhsonsecotien1/horoscope/master/land_video/song_joong_ki_land.png",
             "name": "girl-cools5"
         }
       ]
